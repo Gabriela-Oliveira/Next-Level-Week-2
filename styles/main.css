@@ -57,3 +57,8 @@ textarea{
     max-width: 700px;
 }
 
+@media (min-width: 700px){
+    :root{
+        font-size: 62.5%; /* todos 1rem var ser relativo a 10px */
+    }
+}
